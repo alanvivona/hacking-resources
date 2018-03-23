@@ -1,14 +1,13 @@
+
+==== Done:
+
 Penetration Testing - A Hands-On Introduction to Hacking
 https://nostarch.com/pentesting
 
 Breaking into Information Security: Learning the Ropes 101
 https://leanpub.com/ltr101-breaking-into-infosec
 
-
-==== In progress :
-
-Web Hacking 101
-https://leanpub.com/web-hacking-101
+==== In progress:
 
 OWASP Testing Guide
 https://www.owasp.org/index.php/OWASP_Testing_Project
@@ -21,6 +20,11 @@ ISBN-13: 978-1118026472
 
 The Hacker Playbook 2: Practical Guide To Penetration Testing
 ISBN-13: 978-1512214567
+
+==== Todo:
+
+Web Hacking 101
+https://leanpub.com/web-hacking-101
 
 The Browser Hacker's Handbook
 ISBN-13: 978-1118662090
